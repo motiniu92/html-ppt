@@ -1,0 +1,119 @@
+
+#maindiv{
+    Width : 100%;
+    height : auto;
+    background : gray;
+}
+
+.row1 {
+    width : 100%;
+    height : 100px;
+
+}
+.lightblue {
+    background : lightblue;
+}
+.green {
+    background: green;
+}
+.row2 {
+    width : 100%;
+    height : 400px;
+
+}
+.row3 {
+    width : 100%;
+    height : 50px;
+
+}
+.col1 {
+    width : 30%;
+    height : 100px;
+    float : left;
+}
+.col2 {
+    width : 70%;
+    height : 100px;
+    float : left;
+    font-size: 40px;
+    text-align: center;
+    color:  red;
+}
+.col3 {
+    width : 30%;
+    height : 400px;
+    float : left;
+}
+
+.col4 {
+    width : 70%;
+    height : 400px;
+    float : left;
+    font-size: 30px;
+}
+
+
+
+.yellowgreen {
+    background :yellowgreen
+}
+.antiquewhite {
+    background :antiquewhite;
+}
+.row5 {
+    width : 100%;
+    height : 50px;
+
+}
+.row6 {
+    width : 100%;
+    height : 50px;
+
+}
+.row7 {
+    width : 100%;
+    height : 300px;
+
+}
+.row8 {
+    width : 100%;
+    height : 50px;
+
+}
+.red {
+    background :red;
+}
+.purple {
+    background : purple;
+}
+.black {
+    background :black
+}
+.blue {
+    background :blue;
+}
+body {
+    text-color : black;
+}
+.leftcol{
+    width: 30%;
+    height:auto;
+    float: left;
+
+}
+.righttcol{
+    width: 70%;
+    height:auto;
+    float: left;
+}
+
+td  {
+    border: 1px solid #000;
+  padding: 0px , 20px;
+  
+}
+table {
+    width :70%;
+    margin: 0 auto;
+    
+}

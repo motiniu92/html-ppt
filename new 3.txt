@@ -1,0 +1,14 @@
+            if(email==""){
+						document.getElementById('email').innerHTML="Enter your email ID";
+						return false;
+						}else{
+						var atpos=email.indexOf("@");
+						var dotpos=email.lastIndexOf(".");
+			
+				       if(atpos<1 || dotpos<atpos+2 || dotpos+2>=email.length){
+					     document.getElementById('email').innerHTML="Enter your email ID";
+						return false;
+						  }else{
+							document.getElementById('email').innerHTML="";
+							}
+						}

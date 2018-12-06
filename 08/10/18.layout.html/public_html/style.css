@@ -1,0 +1,98 @@
+
+#mainDiv{
+    width:100%;
+    height;500px;
+}
+.col1{
+    width: 40%;
+    height: 500px;
+    background: blue;
+    float:left;
+}
+.row4{
+    width: 100%;
+    height: 50px;
+    background: blue;
+    float: left;
+}
+.row5{
+    width: 100%;
+    height: 40px;
+    background: violet;
+    float: left;
+}
+.row6{
+    width: 100%;
+    height: 40px;
+    background: purple;
+    float: left;
+}
+.row7{
+    width: 100%;
+    height: 320px;
+    background: pink;
+    float: left;
+}
+.row8{
+    width: 100%;
+    height: 50px;
+    background: palegreen;
+    float: left;
+}
+.col2{
+    width: 60%;
+    height: 500px;
+    background: orange;
+    float:left;
+}
+.row1{
+    width: 100%;
+    height: 50px;
+    background: red;
+    text-align: center;
+    font-size: 50px;
+    float: left;
+}
+.row2{
+    width: 100%;
+    height: 400px;
+    background: green;
+    text-align: center;
+    font-size: 100px;
+    float: left;
+}
+    .row3{
+    width: 100%;
+    height: 50px;
+    background: yellow;
+    float: left;
+}    
+    
+
+.blue{
+    background: blue;  
+}
+.orange{
+    background: orange;
+}
+.red{
+    background: red;  
+}
+.green{
+    background: green;  
+}
+.yellow{
+    background: yellow;  
+}
+.violet{
+    background: violet;
+}
+.purple{
+    background: purple;
+}
+.pink{
+    background: pink;
+}
+.palegreen{
+    background: palegreen;
+}
